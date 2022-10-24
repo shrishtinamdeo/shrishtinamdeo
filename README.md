@@ -113,3 +113,5 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://www.instagram.com/shrishtinamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:shrishti.namdeo06@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
+[![@shrishtinamdeo's Holopin board](https://holopin.me/shrishtinamdeo)](https://holopin.io/@shrishtinamdeo)
